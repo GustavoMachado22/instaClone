@@ -1,5 +1,5 @@
 # InstaClone
-
+![2019-11-01 16 24 48](https://user-images.githubusercontent.com/40500767/68065388-5ee25380-fd07-11e9-9a04-72e5473a5497.gif)
 
  InstaClone é uma app desenvolvida na semana Omnistack 7.0 da Rocketseat.<br/>
  Trata-se de um app clone do Instagram.<br/>
