@@ -1,9 +1,8 @@
 # InstaClone
 ![2019-11-01 16 24 48](https://user-images.githubusercontent.com/40500767/68065388-5ee25380-fd07-11e9-9a04-72e5473a5497.gif)
 
- InstaClone é uma app desenvolvida na semana Omnistack 7.0 da Rocketseat.<br/>
- Trata-se de um app clone do Instagram.<br/>
- O intuido desse evento é desenvolver um app com as principais tecnoligias do mercado.<br/>
+ **InstaClone** é um app que foi desenvolvido na semana Omnistack 7.0 da Rocketseat.<br/>
+ Trata-se de um app clone do Instagram e intuido desse evento é desenvolver um app com as principais tecnoligias do mercado.<br/>
  
 
 
@@ -39,7 +38,7 @@ Execute comando dentro da pasta frontend para executar o aplicativo no modo de d
 
 ### `react-native run ios` ou `react-native run-android`
 
-Execulte o comando dentro da pasta Mobile para inicar o app
+Execute o comando dentro da pasta Mobile para inicar o app
 
 ## Construído com
 
