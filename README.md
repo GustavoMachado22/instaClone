@@ -4,37 +4,49 @@
  InstaClone é uma app desenvolvida na semana Omnistack 7.0 da Rocketseat.<br/>
  Trata-se de um app clone do Instagram.<br/>
  O intuido desse evento é desenvolver um app com as principais tecnoligias do mercado.<br/>
- Para desenvolver a parte do backend foi utilizado NodeJS.<br/> 
- O frontend foi desenvolvido em ReactJS.<br/>
- Ja a parte mobile foi desenvolvido em React Native.<br/>
+ 
 
 
-## Instalando e Executando
+# Instalando e Executando
 
-Faça o clone do repositório
+## Faça o clone do repositório
 
 ```
 https://github.com/glaucohd/instaClone.git
 ```
 
-Instale as dependências
-
-```
-yarn
-```
+## Instale as dependências
 
 
-```
-yarn start
-```
+### `yarn start`
 
+Execute o comando dentro das pastas frontend, backend e mobile para instalar as dependências
+
+## Rodando a aplicação
+
+
+
+### `yarn dev`
+
+Execute o comando dentro da pasta backend para inicar a API.
+
+
+### `yarn start`
+
+Execute comando dentro da pasta frontend para executar o aplicativo no modo de desenvolvimento.
+
+
+
+### `react-native run ios` ou `react-native run-android`
+
+Execulte o comando dentro da pasta Mobile para inicar o app
 
 ## Construído com
 
-- [NodeJS](https://nodejs.org/en/)
-- [ReactJS](https://pt-br.reactjs.org/)
-- [React Native](https://facebook.github.io/react-native/)
-- [MongoDB](https://www.mongodb.com/)
+- [NodeJS](https://nodejs.org/en/) - Backend
+- [ReactJS](https://pt-br.reactjs.org/) - Frontend
+- [React Native](https://facebook.github.io/react-native/) - Mobile
+- [MongoDB](https://www.mongodb.com/) - Banco de dados não relacional
 
 
 ## Autor
